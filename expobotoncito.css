@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(253, 200, 101); /* Fondo naranja */
+    font-family: Arial, sans-serif;
+    background-image: url('BUHOA.png');
+    padding: 40px;
+    line-height: 1.8;
+    margin: 0;
+  }
+  
+  h1 {
+    color: #fdfdfd; /* Naranja fuerte para el título */
+    font-size: 4em;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: rgb(66, 27, 0); /* Texto negro */
+    font-size: 2em;
+    font-weight: normal;
+    max-width: 900px;
+  }
+
+  
+  
